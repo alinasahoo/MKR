@@ -1,4 +1,4 @@
-# Mitti Ke Rang - Selection Round
+# Mitti Ke Rang : Selection Round
 
 For this round, we had to do the following tasks in this "Mental Health" Dataset. 
 - Data Cleaning in Python/R.
@@ -6,3 +6,11 @@ For this round, we had to do the following tasks in this "Mental Health" Dataset
 - Data Visualization using Tableau.
 
 Link : https://public.tableau.com/profile/alina.sahoo#!/vizhome/Mental_Health_16066730108320/MentalHealthInTechnologogyIndustry
+
+# First Task : HIV-AIDS Visualization
+
+For the first task, I had to do the following tasks in "HIV-AIDS" Dataset.
+- Data Cleaning in Python.
+- Visualization using Tableau.
+
+Link : https://public.tableau.com/profile/alina.sahoo#!/vizhome/HIVData/VisualizingHIVAIDSAcrossTheWorld
