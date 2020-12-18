@@ -14,3 +14,11 @@ For the first task, I had to do the following tasks in "HIV-AIDS" Dataset.
 - Visualization using Tableau.
 
 Link : https://public.tableau.com/profile/alina.sahoo#!/vizhome/HIVData/VisualizingHIVAIDSAcrossTheWorld
+
+# Second Task : Master-Class Analysis
+
+For this task, I needed to do the following tasks in real-time dataset of "Mitti Ke Rang".
+- Data Cleaning in Python
+- Visualization using Tableau.
+
+Link : https://public.tableau.com/profile/alina.sahoo#!/vizhome/MasterClassAnalyis-MittiKeRang/Dashboard2
